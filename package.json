@@ -2,15 +2,18 @@
   "version": "1.0.1",
   "scripts": {
     "commit": "git-cz",
-    "changelog": "conventional-changelog -p angular -u -i CHANGELOG.md -s -r 0"
+    "release": "release.sh",
+    "changelog": "cz changelog --file-name='CHANGES.md'"
   },
   "config": {
     "commitizen": {
-      "path": "node_modules/cz-conventional-changelog"
+      "path": "./node_modules/cz-conventional-changelog"
     }
   },
   "devDependencies": {
     "commitizen": "^4.2.5",
-    "conventional-changelog-cli": "^2.2.2"
+    "conventional-changelog-cli": "^2.2.2",
+    "cz-conventional-changelog": "^3.3.0",
+    "standard-version": "^9.5.0"
   }
 }
