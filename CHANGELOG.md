@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/liangce20171013/commitlogtest/compare/v1.1.0...v1.1.1) (2022-11-11)
+
+
+### Bug Fixes
+
+* 解决了功能3bug ([0c2318d](https://github.com/liangce20171013/commitlogtest/commit/0c2318dd87afe06b49a796b32c50bff7609e738c))
+
 ## [1.1.0](https://github.com/liangce20171013/commitlogtest/compare/v1.0.0...v1.1.0) (2022-11-11)
 
 
