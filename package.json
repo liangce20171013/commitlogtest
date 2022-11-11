@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.2",
   "scripts": {
     "commit": "git-cz",
-    "changelog": "conventional-changelog.cmd -p atom -i CHANGES.md -s -r 0"
+    "changelog": "conventional-changelog.cmd -p angular -u -i CHANGES.md -s -r 0"
   },
   "devDependencies": {
     "commitizen": "^4.2.5",
