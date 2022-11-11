@@ -1,6 +1,13 @@
 # 更新历史 
 
 
+## [1.3.0](https://github.com/liangce20171013/commitlogtest/compare/v1.2.1...v1.3.0) (2022-11-11)
+
+
+### ✨ Features | 新功能
+
+* 添加新的配置文件 ([100d29f](https://github.com/liangce20171013/commitlogtest/commit/100d29f8acb8aea82e20b44acedb7719156b50ce))
+
 ### [1.2.1](https://github.com/liangce20171013/commitlogtest/compare/v1.2.0...v1.2.1) (2022-11-11)
 
 ## [1.2.0](https://github.com/liangce20171013/commitlogtest/compare/v1.1.1...v1.2.0) (2022-11-11)
