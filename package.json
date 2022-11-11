@@ -2,11 +2,14 @@
   "version": "1.0.2",
   "scripts": {
     "commit": "git-cz",
-    "changelog": "conventional-changelog.cmd -p angular -u -i CHANGES.md -s -r 0 -n ./changelog-option.js"
+    "release": "standard-version",
+    "changelog": "conventional-changelog.cmd -p custom-config -i CHANGES.md -s -r 0 -n ./changelog-option.js"
   },
   "devDependencies": {
     "commitizen": "^4.2.5",
-    "cz-conventional-changelog": "^3.3.0"
+    "conventional-changelog-custom-config": "^0.3.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "standard-version": "^9.5.0"
   },
   "config": {
     "commitizen": {
