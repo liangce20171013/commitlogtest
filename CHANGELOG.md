@@ -3,6 +3,7 @@
 
 ### ⏪ Reverts
 
+* 我再次回退代码 ([2d9a460](https://github.com/liangce20171013/commitlogtest/commit/2d9a460))
 * **custom:** 我回退代码了 ([f66a97e](https://github.com/liangce20171013/commitlogtest/commit/f66a97e))
 
 
