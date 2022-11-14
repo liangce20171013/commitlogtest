@@ -1,5 +1,5 @@
 {
-  "version": "1.3.4",
+  "version": "2.0.0",
   "scripts": {
     "changelog": "conventional-changelog -p custom-config -i CHANGELOG.md -s -r 0",
     "commit": "git-cz",
