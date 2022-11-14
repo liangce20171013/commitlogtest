@@ -1,6 +1,13 @@
 # 更新历史 
 
 
+### [1.3.1](https://github.com/liangce20171013/commitlogtest/compare/v1.3.0...v1.3.1) (2022-11-14)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修复了一个bug ([e07dcdd](https://github.com/liangce20171013/commitlogtest/commit/e07dcdd54fa7bc038753225eb9164ca255b46ca7))
+
 ## [1.3.0](https://github.com/liangce20171013/commitlogtest/compare/v1.2.1...v1.3.0) (2022-11-11)
 
 
