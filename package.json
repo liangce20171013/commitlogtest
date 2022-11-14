@@ -2,7 +2,7 @@
   "version": "1.3.4",
   "scripts": {
     "changelog": "conventional-changelog -p angular -u -i CHANGELOG.md -s -r 0",
-    "commit": "cz-customizable",
+    "commit": "git-cz",
     "release": "standard-version"
   },
   "devDependencies": {
@@ -16,6 +16,45 @@
     "standard-version": "^9.5.0"
   },
   "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog",
+      "types": {
+        "feat": {
+          "title": "✨ Features | 新功能"
+        },
+        "fix": {
+          "title": "🐛 Bug Fixes | Bug 修复"
+        },
+        "perf": {
+          "title": "⚡ Performance Improvements | 性能优化"
+        },
+        "revert": {
+          "title": "⏪ Reverts | 回退"
+        },
+        "chore": {
+          "title": "🎫 Chores | 其他更新"
+        },
+        "docs": {
+          "title": "📝 Documentation | 文档"
+        },
+        "style": {
+          "title": "💄 Styles | 风格",
+          "hidden": true
+        },
+        "refactor": {
+          "title": "♻ Code Refactoring | 代码重构"
+        },
+        "test": {
+          "title": "✅ Tests | 测试"
+        },
+        "build": {
+          "title": "👷‍ Build System | 构建"
+        },
+        "ci": {
+          "title": "🔧 Continuous Integration | CI 配置"
+        }
+      }
+    },
     "cz-customizable": {
       "config": ".cz-config.js"
     }
