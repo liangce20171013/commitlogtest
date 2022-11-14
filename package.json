@@ -6,10 +6,12 @@
     "release": "standard-version"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.2.0",
     "commitizen": "^4.2.5",
+    "conventional-changelog-cli": "^2.2.2",
     "conventional-changelog-custom-config": "^0.3.1",
+    "conventional-changelog-emoji": "^0.3.3",
     "cz-conventional-changelog": "^3.3.0",
-    "cz-conventional-emoji": "^1.0.2",
     "cz-customizable": "^7.0.0",
     "standard-version": "^9.5.0"
   },
@@ -22,8 +24,5 @@
     "skip": {
       "changelog": true
     }
-  },
-  "dependencies": {
-    "conventional-changelog-cli": "^2.2.2"
   }
 }

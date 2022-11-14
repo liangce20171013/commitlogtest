@@ -1,7 +1,7 @@
 module.exports = {
   // 可选类型
   types: [
-    { value: "feat", name: "✨ Features | 新功能" },
+    { value: ":sparkles: feat", name: "✨ Features | 新功能" },
     { value: "fix", name: "🐛 Bug Fixes | Bug 修复" },
     { value: "perf", name: "⚡ Performance Improvements | 性能优化" },
     { value: "revert", name: "⏪ Reverts | 回退" },
