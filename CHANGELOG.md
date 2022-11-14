@@ -16,6 +16,7 @@
 
 ### Performance Improvements
 
+* **custom:** 性能优化 ([d928fe7](https://github.com/liangce20171013/commitlogtest/commit/d928fe7d97e181b5b1b294918f110898b048643b))
 * test perf ([a74217d](https://github.com/liangce20171013/commitlogtest/commit/a74217de4915390c726eb55e9b3828b5977b9485))
 
 
