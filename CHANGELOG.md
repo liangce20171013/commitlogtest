@@ -1,6 +1,11 @@
 ## [1.3.4](https://github.com/liangce20171013/commitlogtest/compare/v1.3.0...v1.3.4) (2022-11-14)
 
 
+### ⏪ Reverts
+
+* **custom:** 我回退代码了 ([f66a97e](https://github.com/liangce20171013/commitlogtest/commit/f66a97e))
+
+
 ### ⚡ Performance Improvements
 
 * **custom:** 性能优化 ([d928fe7](https://github.com/liangce20171013/commitlogtest/commit/d928fe7))
