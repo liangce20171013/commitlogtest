@@ -20,9 +20,11 @@
       "path": "cz-conventional-changelog"
     },
     "cz-customizable": {
-      "emojis": true,
       "config": ".cz-config.js"
     }
+  },
+  "changelog": {
+    "emojis": true
   },
   "standard-version": {
     "skip": {

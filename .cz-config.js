@@ -1,12 +1,11 @@
 module.exports = {
-    emojis:true,
   // 可选类型
   types: [
     { value: ":sparkles: feat", name: "✨ Features | 新功能" },
     { value: "fix", name: "🐛 Bug Fixes | Bug 修复" },
     { value: "perf", name: "⚡ Performance Improvements | 性能优化" },
     { value: "revert", name: "⏪ Reverts | 回退" },
-    { value: "chore", name: "🎫 Chores | 其他更新" },
+    { value: "chore", name: "🎫 Chores | 其他更新", hidden: true },
     { value: "docs", name: "📝 Documentation | 文档" },
     { value: "style", name: "💄 Styles | 风格", hidden: true },
     { value: "refactor", name: "♻ Code Refactoring | 代码重构" },
@@ -25,6 +24,7 @@ module.exports = {
   },
   // 跳过问题
   skipQuestions: ["body", "footer"],
+  allowCustomScopes: false,
   // subject文字长度默认是72
   subjectLimit: 72,
 };
