@@ -1,3 +1,22 @@
+# [2.1.0](https://github.com/liangce20171013/commitlogtest/compare/v2.0.0...v2.1.0) (2022-11-14)
+
+
+### ✨ Features
+
+* 一个添加功能 ([0484deb](https://github.com/liangce20171013/commitlogtest/commit/0484deb))
+
+
+### 🎫 Chores
+
+* **release:** 2.1.0 ([dc0d653](https://github.com/liangce20171013/commitlogtest/commit/dc0d653))
+
+
+### 🐛 Bug Fixes
+
+* a LITTILE BUG ([4a4f030](https://github.com/liangce20171013/commitlogtest/commit/4a4f030))
+
+
+
 # [2.0.0](https://github.com/liangce20171013/commitlogtest/compare/v1.3.0...v2.0.0) (2022-11-14)
 
 
