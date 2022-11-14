@@ -9,6 +9,11 @@
 * **custom:** 修改了一个BUG ([ea2c442](https://github.com/liangce20171013/commitlogtest/commit/ea2c442ad58bd7b9ca943b29148270d8dd7ad2bd))
 
 
+### Features
+
+* **custom:** 添加了一个新的功能 ([22fa53e](https://github.com/liangce20171013/commitlogtest/commit/22fa53ee3cf631784fb5df29ad6d6445cb790201))
+
+
 ### Performance Improvements
 
 * test perf ([a74217d](https://github.com/liangce20171013/commitlogtest/commit/a74217de4915390c726eb55e9b3828b5977b9485))
