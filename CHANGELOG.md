@@ -1,4 +1,4 @@
-## [1.3.4](https://github.com/liangce20171013/commitlogtest/compare/v1.3.0...v1.3.4) (2022-11-14)
+# [2.0.0](https://github.com/liangce20171013/commitlogtest/compare/v1.3.0...v2.0.0) (2022-11-14)
 
 
 ### ⏪ Reverts
@@ -22,6 +22,7 @@
 
 * 添加了一个新的功能 ([d0625cb](https://github.com/liangce20171013/commitlogtest/commit/d0625cb))
 * **custom:** 添加了一个新的功能 ([22fa53e](https://github.com/liangce20171013/commitlogtest/commit/22fa53e))
+* gIS功能 ([d9697f8](https://github.com/liangce20171013/commitlogtest/commit/d9697f8))
 
 
 ### 🎫 Chores
@@ -30,6 +31,7 @@
 * **release:** 1.3.2 ([f18fbad](https://github.com/liangce20171013/commitlogtest/commit/f18fbad))
 * **release:** 1.3.3 ([c319c2e](https://github.com/liangce20171013/commitlogtest/commit/c319c2e))
 * **release:** 1.3.4 ([8aa583b](https://github.com/liangce20171013/commitlogtest/commit/8aa583b))
+* **release:** 2.0.0 ([94498cf](https://github.com/liangce20171013/commitlogtest/commit/94498cf))
 
 
 ### 🐛 Bug Fixes
@@ -43,6 +45,11 @@
 * **custom:** 解决了一个BUG ([0c1308b](https://github.com/liangce20171013/commitlogtest/commit/0c1308b))
 * **custom:** 修改了一个BUG ([ea2c442](https://github.com/liangce20171013/commitlogtest/commit/ea2c442))
 * **custom:** changelog修复 ([4678796](https://github.com/liangce20171013/commitlogtest/commit/4678796))
+
+
+### BREAKING CHANGES
+
+* 都不再兼容了
 
 
 
