@@ -1,4 +1,5 @@
 module.exports = {
+    emojis:true,
   // 可选类型
   types: [
     { value: ":sparkles: feat", name: "✨ Features | 新功能" },
