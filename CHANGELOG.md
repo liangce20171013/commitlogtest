@@ -20,6 +20,7 @@
 
 ### ✨ Features
 
+* 添加了一个新的功能 ([d0625cb](https://github.com/liangce20171013/commitlogtest/commit/d0625cb))
 * **custom:** 添加了一个新的功能 ([22fa53e](https://github.com/liangce20171013/commitlogtest/commit/22fa53e))
 
 
@@ -35,6 +36,7 @@
 
 * 解决了一个BUG ([cda329f](https://github.com/liangce20171013/commitlogtest/commit/cda329f))
 * 修复了一个bug ([e07dcdd](https://github.com/liangce20171013/commitlogtest/commit/e07dcdd))
+* 修改了一个大BUG ([bf9daf2](https://github.com/liangce20171013/commitlogtest/commit/bf9daf2))
 * 修改了一个bug ([92c5dfa](https://github.com/liangce20171013/commitlogtest/commit/92c5dfa))
 * **修改了BUG:** 修改了BUG ([dc2a67b](https://github.com/liangce20171013/commitlogtest/commit/dc2a67b))
 * 修改bug ([a3f59a8](https://github.com/liangce20171013/commitlogtest/commit/a3f59a8))
