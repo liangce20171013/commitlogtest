@@ -13,9 +13,6 @@
     "standard-version": "^9.5.0"
   },
   "config": {
-    "commitizen": {
-      "path": "node_modules/cz-customizable"
-    },
     "cz-customizable": {
       "config": ".cz-config.js"
     }
