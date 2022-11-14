@@ -17,7 +17,7 @@
       "path": "node_modules/cz-customizable"
     },
     "cz-customizable": {
-      "config": ".cz-conifg.js"
+      "config": ".cz-config.js"
     }
   },
   "standard-version": {

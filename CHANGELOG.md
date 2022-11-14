@@ -7,6 +7,11 @@
 * 修改了一个bug ([92c5dfa](https://github.com/liangce20171013/commitlogtest/commit/92c5dfa1e2543e6ec29dba153db9689fc2ced044))
 
 
+### Performance Improvements
+
+* test perf ([a74217d](https://github.com/liangce20171013/commitlogtest/commit/a74217de4915390c726eb55e9b3828b5977b9485))
+
+
 
 # [1.3.0](https://github.com/liangce20171013/commitlogtest/compare/v1.2.1...v1.3.0) (2022-11-11)
 
