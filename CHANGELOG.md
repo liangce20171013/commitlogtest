@@ -6,6 +6,7 @@
 * 解决了一个BUG ([cda329f](https://github.com/liangce20171013/commitlogtest/commit/cda329fc3ec74af6298074cfd35f3d869fcbe708))
 * 修复了一个bug ([e07dcdd](https://github.com/liangce20171013/commitlogtest/commit/e07dcdd54fa7bc038753225eb9164ca255b46ca7))
 * 修改了一个bug ([92c5dfa](https://github.com/liangce20171013/commitlogtest/commit/92c5dfa1e2543e6ec29dba153db9689fc2ced044))
+* **custom:** 修改了一个BUG ([ea2c442](https://github.com/liangce20171013/commitlogtest/commit/ea2c442ad58bd7b9ca943b29148270d8dd7ad2bd))
 
 
 ### Performance Improvements
