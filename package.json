@@ -9,14 +9,15 @@
     "commitizen": "^4.2.5",
     "conventional-changelog-custom-config": "^0.3.1",
     "cz-conventional-changelog": "^3.3.0",
+    "cz-customizable": "^7.0.0",
     "standard-version": "^9.5.0"
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
+      "path": "node_modules/cz-customizable"
     },
     "cz-customizable": {
-      "config": ".cz.conifg.js"
+      "config": ".cz-conifg.js"
     }
   },
   "standard-version": {
