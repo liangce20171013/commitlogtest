@@ -12,6 +12,11 @@
 * test perf ([a74217d](https://github.com/liangce20171013/commitlogtest/commit/a74217d))
 
 
+### ✅ Tests
+
+* 跳过scope测试 ([5a22159](https://github.com/liangce20171013/commitlogtest/commit/5a22159))
+
+
 ### ✨ Features
 
 * **custom:** 添加了一个新的功能 ([22fa53e](https://github.com/liangce20171013/commitlogtest/commit/22fa53e))
